@@ -3471,7 +3471,7 @@
         "Custo_Credenciado": 9300,
         "Soma_Precificacao": 990,
         "Pago": "Sim",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": 20,
         "Aplicador": "Credenciado"
     },
@@ -3493,7 +3493,7 @@
         "Custo_Credenciado": 9300,
         "Soma_Precificacao": 990,
         "Pago": "Sim",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": 23,
         "Aplicador": "Credenciado"
     },
@@ -5297,7 +5297,7 @@
         "Custo_Credenciado": 5400,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5319,7 +5319,7 @@
         "Custo_Credenciado": 5400,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5341,7 +5341,7 @@
         "Custo_Credenciado": 5400,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5363,7 +5363,7 @@
         "Custo_Credenciado": 5400,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5473,7 +5473,7 @@
         "Custo_Credenciado": 2600,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5495,7 +5495,7 @@
         "Custo_Credenciado": 2600,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5517,7 +5517,7 @@
         "Custo_Credenciado": 2600,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5539,7 +5539,7 @@
         "Custo_Credenciado": 2600,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5561,7 +5561,7 @@
         "Custo_Credenciado": 2600,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5583,7 +5583,7 @@
         "Custo_Credenciado": 2600,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5605,7 +5605,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5627,7 +5627,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5649,7 +5649,7 @@
         "Custo_Credenciado": 5460,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5671,7 +5671,7 @@
         "Custo_Credenciado": 5460,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5693,7 +5693,7 @@
         "Custo_Credenciado": 5460,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5715,7 +5715,7 @@
         "Custo_Credenciado": 5460,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5737,7 +5737,7 @@
         "Custo_Credenciado": 5460,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5759,7 +5759,7 @@
         "Custo_Credenciado": 3900,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5781,7 +5781,7 @@
         "Custo_Credenciado": 3900,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5803,7 +5803,7 @@
         "Custo_Credenciado": 3900,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5825,7 +5825,7 @@
         "Custo_Credenciado": 3900,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5847,7 +5847,7 @@
         "Custo_Credenciado": 3900,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5869,7 +5869,7 @@
         "Custo_Credenciado": 5720,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5891,7 +5891,7 @@
         "Custo_Credenciado": 5720,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5913,7 +5913,7 @@
         "Custo_Credenciado": 5720,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5935,7 +5935,7 @@
         "Custo_Credenciado": 5720,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5957,7 +5957,7 @@
         "Custo_Credenciado": 5720,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -5979,7 +5979,7 @@
         "Custo_Credenciado": 10920,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6001,7 +6001,7 @@
         "Custo_Credenciado": 10920,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6023,7 +6023,7 @@
         "Custo_Credenciado": 10920,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6045,7 +6045,7 @@
         "Custo_Credenciado": 10920,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6067,7 +6067,7 @@
         "Custo_Credenciado": 10920,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6089,7 +6089,7 @@
         "Custo_Credenciado": 9360,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6111,7 +6111,7 @@
         "Custo_Credenciado": 9360,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6133,7 +6133,7 @@
         "Custo_Credenciado": 9360,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6155,7 +6155,7 @@
         "Custo_Credenciado": 9360,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6177,7 +6177,7 @@
         "Custo_Credenciado": 9360,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6199,7 +6199,7 @@
         "Custo_Credenciado": 4680,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6221,7 +6221,7 @@
         "Custo_Credenciado": 4680,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6243,7 +6243,7 @@
         "Custo_Credenciado": 4680,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6265,7 +6265,7 @@
         "Custo_Credenciado": 4680,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6287,7 +6287,7 @@
         "Custo_Credenciado": 4680,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6309,7 +6309,7 @@
         "Custo_Credenciado": 7800,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6331,7 +6331,7 @@
         "Custo_Credenciado": 7800,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6353,7 +6353,7 @@
         "Custo_Credenciado": 7800,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6375,7 +6375,7 @@
         "Custo_Credenciado": 7800,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6397,7 +6397,7 @@
         "Custo_Credenciado": 7800,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6419,7 +6419,7 @@
         "Custo_Credenciado": 10400,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6441,7 +6441,7 @@
         "Custo_Credenciado": 10400,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6463,7 +6463,7 @@
         "Custo_Credenciado": 10400,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6485,7 +6485,7 @@
         "Custo_Credenciado": 10400,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6507,7 +6507,7 @@
         "Custo_Credenciado": 10400,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6529,7 +6529,7 @@
         "Custo_Credenciado": 3120,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6551,7 +6551,7 @@
         "Custo_Credenciado": 3120,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6573,7 +6573,7 @@
         "Custo_Credenciado": 3120,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6595,7 +6595,7 @@
         "Custo_Credenciado": 3120,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6617,7 +6617,7 @@
         "Custo_Credenciado": 3120,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6639,7 +6639,7 @@
         "Custo_Credenciado": 260,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6661,7 +6661,7 @@
         "Custo_Credenciado": 260,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6683,7 +6683,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6705,7 +6705,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6727,7 +6727,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6749,7 +6749,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6771,7 +6771,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6793,7 +6793,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6815,7 +6815,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6837,7 +6837,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6859,7 +6859,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6881,7 +6881,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6903,7 +6903,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6925,7 +6925,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6947,7 +6947,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6969,7 +6969,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -6991,7 +6991,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -7013,7 +7013,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -8179,7 +8179,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -8201,7 +8201,7 @@
         "Custo_Credenciado": 2860,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -8223,7 +8223,7 @@
         "Custo_Credenciado": 260,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -8245,7 +8245,7 @@
         "Custo_Credenciado": 260,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -11677,7 +11677,7 @@
         "Custo_Credenciado": 31200,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -11699,7 +11699,7 @@
         "Custo_Credenciado": 4500,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
@@ -12249,7 +12249,7 @@
         "Custo_Credenciado": 1040,
         "Soma_Precificacao": 0,
         "Pago": "Não",
-        "Modalidade": "Hibrido.",
+        "Modalidade": "Hibrido",
         "EmpresasHabilitadas": "xx",
         "Aplicador": "SEBRAE"
     },
