@@ -3471,7 +3471,7 @@
         "Custo_Credenciado": 9300,
         "Soma_Precificacao": 990,
         "Pago": "Sim",
-        "Modalidade": "Hibrido",
+        "Modalidade": "Hibrido-",
         "EmpresasHabilitadas": 20,
         "Aplicador": "Credenciado"
     },
