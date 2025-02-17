@@ -1,27 +1,5 @@
 [
   {
-    "ID_Produto": "7000",
-    "NomeProduto": "Planeje seu negócio com foco nos resultados (presencial)",
-    "DescricaoProduto": "NaN",
-    "Area": "Desenvolvimento Setorial",
-    "Subarea": "Turismo Rural",
-    "Natureza": "NaN",
-    "Setor": "NaN",
-    "Segmento": "NaN",
-    "PublicoAlvo": "NaN",
-    "Familia": "NaN",
-    "Origem": "NaN",
-    "Num_Min_Pessoas": "NaN",
-    "Complexidade": "Padrão",
-    "CargaHoraria": "4",
-    "Custo_Credenciado": "15600",
-    "Soma_Precificacao": "NaN",
-    "Pago": "Não",
-    "Modalidade": "Presencial",
-    "EmpresasHabilitadas": "6",
-    "Aplicador": "Credenciado, Funcionário"
-  },
-  {
     "ID_Produto": "6721 -----",
     "NomeProduto": "Alcance melhores resultados com os agentes de roteiros turísticos",
     "DescricaoProduto": "NaN",
@@ -3822,7 +3800,7 @@
     "CargaHoraria": "2",
     "Custo_Credenciado": "244",
     "Soma_Precificacao": "440",
-    "Pago": "Sim",
+    "Pago": "Não",
     "Modalidade": "Remoto",
     "EmpresasHabilitadas": "176",
     "Aplicador": "Credenciado, Funcionário"
@@ -3844,7 +3822,7 @@
     "CargaHoraria": "2",
     "Custo_Credenciado": "244",
     "Soma_Precificacao": "440",
-    "Pago": "Sim",
+    "Pago": "Não",
     "Modalidade": "Presencial",
     "EmpresasHabilitadas": "176",
     "Aplicador": "Credenciado, Funcionário"
@@ -3866,7 +3844,7 @@
     "CargaHoraria": "2",
     "Custo_Credenciado": "244",
     "Soma_Precificacao": "440",
-    "Pago": "Sim",
+    "Pago": "Não",
     "Modalidade": "Remoto",
     "EmpresasHabilitadas": "115",
     "Aplicador": "Credenciado, Funcionário"
@@ -3888,7 +3866,7 @@
     "CargaHoraria": "2",
     "Custo_Credenciado": "244",
     "Soma_Precificacao": "440",
-    "Pago": "Sim",
+    "Pago": "Não",
     "Modalidade": "Presencial",
     "EmpresasHabilitadas": "115",
     "Aplicador": "Credenciado, Funcionário"
