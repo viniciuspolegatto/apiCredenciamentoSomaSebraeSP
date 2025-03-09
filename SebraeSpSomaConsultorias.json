@@ -9456,7 +9456,7 @@
     "Soma_Precificacao": "0",
     "Pago": "Não",
     "Modalidade": "Presencial",
-    "EmpresasHabilitadas": "19",
+    "EmpresasHabilitadas": "001",
     "Aplicador": "Credenciado, Funcionário"
   },
   {
@@ -9565,7 +9565,7 @@
     "Custo_Credenciado": "260",
     "Soma_Precificacao": "0",
     "Pago": "Não",
-    "Modalidade": "Remoto",
+    "Modalidade": "Presencial",
     "EmpresasHabilitadas": "001",
     "Aplicador": "Credenciado, Funcionário"
   },
