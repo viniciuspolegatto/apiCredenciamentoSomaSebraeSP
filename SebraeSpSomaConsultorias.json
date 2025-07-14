@@ -5060,6 +5060,28 @@
     "Aplicador": "Credenciado, Funcionário"
   },
   {
+    "ID_Produto": "4429",
+    "NomeProduto": "Empreendedorismo e Planejamento Presencial 8H - TÉCNICOS",
+    "DescricaoProduto": "Cursos técnicos do programa Empreenda Rápido que poderão ser aplicados por credenciados.",
+    "Area": "Planejamento empresarial",
+    "Subarea": "Plano de negócios",
+    "Natureza": "Instrutoria / Oficina / Curso / Palestra",
+    "Setor": "Multissetorial",
+    "Segmento": "Multisegmento",
+    "PublicoAlvo": "EPP, ME, MEI, Potencial Empreendedor, Potencial Empresário, Produtor Rural",
+    "Familia": "Comece!",
+    "Origem": "Sebrae-NA",
+    "Num_Min_Pessoas": "10",
+    "Complexidade": "Padrão",
+    "CargaHoraria": "8h",
+    "Custo_Credenciado": "1424",
+    "Soma_Precificacao": "0",
+    "Pago": "Não",
+    "Modalidade": "Presencial",
+    "EmpresasHabilitadas": "",
+    "Aplicador": "Credenciado, Funcionário"
+  },
+  {
     "ID_Produto": "6712",
     "NomeProduto": "Alcance recursos para os seus projetos",
     "DescricaoProduto": "O curso possui uma carga horária de 16 horas, dividido em 4 encontros de 4 horas, que podem ser realizados em 4 dias distintos ou em dois dias, contemplando 2 encontros cada. O curso tem por objetivo apresentar técnicas para a elaboração de projetos com vistas à obtenção de recursos, assim como, conscientizar sobre a importância de planejar previamente os projetos da organização e demonstrar diferentes fontes de captação de recursos.",
