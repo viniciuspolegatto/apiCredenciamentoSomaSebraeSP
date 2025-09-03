@@ -9724,6 +9724,28 @@
     "Aplicador": "Credenciado, Funcionário"
   },
   {
+    "ID_Produto": "4437",
+    "NomeProduto": "Alcance sucesso com a importação: Operação e Comercialização (Remoto)",
+    "DescricaoProduto": "O empresário e/ou empresária têm consciência da importância da avaliação interna dos processos que ocorrem em uma empresa, identificando as forças e fraquezas do negócio, além de apontar alguns fatores que compõem a sua operação. Medição de indicadores em três momentos, sendo no diagnóstico inicial, durante e após a execução do plano de ação para melhoria de desempenho. Esse produto tem como base Modelo de Excelência da Gestão – MEG 2015. Aplicação será 2h presencial e 1h para análise e 1h devolutiva com cliente remoto",
+    "Area": "Negócios Internacionais",
+    "Subarea": "Procedimento de Exportação e Importação",
+    "Natureza": "Consultoria",
+    "Setor": "Multissetorial",
+    "Segmento": "Multisegmento",
+    "PublicoAlvo": "EPP, ME, MEI, Produtor Rural",
+    "Familia": "Alcance!",
+    "Origem": "Sebrae-SP",
+    "Num_Min_Pessoas": "0",
+    "Complexidade": "Básico",
+    "CargaHoraria": "3",
+    "Custo_Credenciado": "366",
+    "Soma_Precificacao": "0",
+    "Pago": "Não",
+    "Modalidade": "Remoto",
+    "EmpresasHabilitadas": "17",
+    "Aplicador": "Credenciado, Funcionário"
+  },
+  {
     "ID_Produto": "4522",
     "NomeProduto": "Faça a sua empresa ser mais inovadora (Presencial)",
     "DescricaoProduto": "A consultoria focada em inovação busca solucionar dúvidas e problemas vivenciados pelo empreendedor em diferentes temas, como sustentabilidade e responsabilidade social, renovação do portfólio de produtos e serviços, otimização de processos produtivos, adoção de tecnologia para gestão da empresa e criação de negócios de alto impacto.",
